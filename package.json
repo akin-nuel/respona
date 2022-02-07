@@ -1,0 +1,15 @@
+{
+  "name": "projectresponadev",
+  "version": "1.0.0",
+  "description": "style.scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "akay",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
