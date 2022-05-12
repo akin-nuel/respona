@@ -33,7 +33,7 @@ body{
             display: flex;
             .logo{
                 margin-top:20px;
-                background-image: url(logo_white.svg);
+                background-image: url(svg/logo_white.svg);
                 background-repeat: no-repeat;
                 background-size: contain;
                 width:18%;
@@ -154,8 +154,9 @@ body{
             
         }
         .picture{
-            background-image:url(Header-desktop-1024x701.png);
+            background-image:url();
             background-repeat:no-repeat;
+            background-position: center;
             background-size:cover;
             width:50%;
             height:auto;
@@ -180,7 +181,7 @@ body{
 
         .picture{
             margin-top:50px;
-            background-image: url(link-building.svg);
+            background-image: url(svg/link-building.svg);
             background-repeat: no-repeat;
             background-size: contain;
             width:250px;
@@ -318,7 +319,7 @@ body{
             }
         }
         .picture{
-            background-image: url(f1_z-1024x842.png);
+            background-image: url(images/f1_z-1024x842.png);
             background-repeat: no-repeat;
             background-size: contain;
             width: 50%;
@@ -335,7 +336,7 @@ body{
         justify-content: space-between;
         
         .picture{
-            background-image: url(f2_z-862x1024.png);
+            background-image: url(images/f2_z-862x1024.png);
             background-repeat: no-repeat;
             background-size: contain;
             width: 55%;
